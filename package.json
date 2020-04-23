@@ -1,0 +1,21 @@
+{
+  "name": "final-chat",
+  "version": "0.0.0",
+  "description": "React Native Chat using Firebase and Gifted Chat component with ability to upload image as avatar",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "devDependencies": {
+    "babel-preset-expo": "^7.0.0"
+  },
+  "dependencies": {
+    "expo": "^37.0.0",
+    "react": "16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz",
+    "uuid": "3.3.2",
+    "moment": "*",
+    "firebase": "4.8.1",
+    "react-navigation": "2.3.1",
+    "react-native-gifted-chat": "latest"
+  }
+}
